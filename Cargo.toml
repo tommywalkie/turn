@@ -1,6 +1,6 @@
 [package]
 name = "turn"
-version = "0.0.3"
+version = "0.0.4"
 description = "Lodash-inspired Rust utility turning things into something else"
 authors = ["Tom Bazarnik <tommywalkie@gmail.com>"]
 edition = "2018"
@@ -11,4 +11,5 @@ exclude = [
 ]
 
 [dependencies]
+doc-comment = "0.3.3"
 duplicate = "0.2.9"

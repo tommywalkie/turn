@@ -6,5 +6,8 @@ authors = ["Tom Bazarnik <tommywalkie@gmail.com>"]
 edition = "2018"
 license = "MIT"
 repository = "https://github.com/tommywalkie/turn.git"
+exclude = [
+    "docs" # To-be-implemented custom documentation
+]
 
 [dependencies]

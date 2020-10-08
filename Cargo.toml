@@ -1,6 +1,6 @@
 [package]
 name = "turn"
-version = "0.0.1"
+version = "0.0.2"
 description = "Lodash-inspired Rust utility turning things into something else"
 authors = ["Tom Bazarnik <tommywalkie@gmail.com>"]
 edition = "2018"

@@ -1,14 +1,11 @@
 [package]
 name = "turn"
-version = "0.0.5"
-description = "Lodash-inspired Rust utility turning things into something else"
+version = "0.0.6"
+description = "Rust utility crate turning values into something else"
 authors = ["Tom Bazarnik <tommywalkie@gmail.com>"]
 edition = "2018"
 license = "MIT"
 repository = "https://github.com/tommywalkie/turn.git"
-exclude = [
-    "docs" # To-be-implemented custom documentation
-]
 
 [dependencies]
 doc-comment = "0.3.3"
